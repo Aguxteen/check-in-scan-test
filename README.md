@@ -7,7 +7,7 @@ Antes de ejecutar la aplicación por primera vez, asegúrate de configurar corre
    ```bash
    git clone https://github.com/tu-usuario/nombre-de-tu-aplicacion.git
    npm install
-   npm run database
+   npm run initdb
    npm start
    ```
 
