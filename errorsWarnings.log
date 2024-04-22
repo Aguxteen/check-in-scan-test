@@ -1,0 +1,238 @@
+{
+  meta: {
+    req: {
+      url: '/users/login',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': '919ea914-8ba7-4dca-8280-df545c6f2862',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '66'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/users/login',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 65
+  },
+  level: 'error',
+  message: 'HTTP POST /users/login',
+  timestamp: '2024-04-22T13:58:58.088Z'
+}
+{
+  meta: {
+    req: {
+      url: '/users/login',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': '8ea34eb5-5f12-4dbf-a854-61d5ad1d81e8',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '66'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/users/login',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 67
+  },
+  level: 'error',
+  message: 'HTTP POST /users/login',
+  timestamp: '2024-04-22T14:00:08.596Z'
+}
+{
+  meta: {
+    req: {
+      url: '/products/82bf511e-e32b-4e34-b559-a96247109b73',
+      headers: {
+        authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU1N2I1ZjdjLTYwM2ItNDgyMy04YmNhLTA1NDdhNDU5MGZmMiIsImlhdCI6MTcxMzc4Nzc5MCwiZXhwIjoxNzEzNzk0OTkwfQ.8st2k-dQQwKF4jV8gSNAx1vza5IvR9lABDFetDPKYY4',
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': '67202f30-bbca-44ac-81a8-a77faebcd8ff',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '76'
+      },
+      method: 'PATCH',
+      httpVersion: '1.1',
+      originalUrl: '/products/82bf511e-e32b-4e34-b559-a96247109b73',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 28
+  },
+  level: 'error',
+  message: 'HTTP PATCH /products/82bf511e-e32b-4e34-b559-a96247109b73',
+  timestamp: '2024-04-22T14:02:36.831Z'
+}
+{
+  meta: {
+    req: {
+      url: '/users/register',
+      headers: {
+        authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRiMWNhMmUzLTMwMGMtNDQ3ZC04YzY3LWU5ODFiOTEwMDcwNCIsImlhdCI6MTcxMzc5MDg1OSwiZXhwIjoxNzEzNzk4MDU5fQ.WZu_V2l7QeWkvZhHSdLMLBgmvkDV7PBr0fOGLYNt9VQ',
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': '4fa71d1a-5517-48c0-91c4-a7e78b69d34e',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '60'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/users/register',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 69
+  },
+  level: 'error',
+  message: 'HTTP POST /users/register',
+  timestamp: '2024-04-22T14:05:32.270Z'
+}
+{
+  meta: {
+    req: {
+      url: '/users/register',
+      headers: {
+        authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRiMWNhMmUzLTMwMGMtNDQ3ZC04YzY3LWU5ODFiOTEwMDcwNCIsImlhdCI6MTcxMzc5MDg1OSwiZXhwIjoxNzEzNzk4MDU5fQ.WZu_V2l7QeWkvZhHSdLMLBgmvkDV7PBr0fOGLYNt9VQ',
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': '6466c0dc-1ab3-4932-bd4c-5e08feccc2d4',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '60'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/users/register',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 67
+  },
+  level: 'error',
+  message: 'HTTP POST /users/register',
+  timestamp: '2024-04-22T14:06:15.251Z'
+}
+{
+  meta: {
+    req: {
+      url: '/users/login',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': 'dad99cbe-3509-424d-aaa9-18c6436247df',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '63'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/users/login',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 166
+  },
+  level: 'error',
+  message: 'HTTP POST /users/login',
+  timestamp: '2024-04-22T15:56:01.366Z'
+}
+{
+  meta: {
+    req: {
+      url: '/users/login',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': '115d92c3-421b-4b12-a339-33759771acd0',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '65'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/users/login',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 8
+  },
+  level: 'error',
+  message: 'HTTP POST /users/login',
+  timestamp: '2024-04-22T15:56:07.216Z'
+}
+{
+  meta: {
+    req: {
+      url: '/users/login',
+      headers: {
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': '1f520cc9-faae-427b-ac1b-90978e565667',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '63'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/users/login',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 4
+  },
+  level: 'error',
+  message: 'HTTP POST /users/login',
+  timestamp: '2024-04-22T15:56:49.871Z'
+}
+{
+  meta: {
+    req: {
+      url: '/users/register',
+      headers: {
+        authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRiMWNhMmUzLTMwMGMtNDQ3ZC04YzY3LWU5ODFiOTEwMDcwNCIsImlhdCI6MTcxMzgwMTQ3OCwiZXhwIjoxNzEzODA4Njc4fQ.IXwlqTY89O6glsiC6bGP1QYNAQBGdttNB6WIhrPGUwA',
+        'content-type': 'application/json',
+        'user-agent': 'PostmanRuntime/7.37.3',
+        accept: '*/*',
+        'postman-token': '66c06c54-bc84-48c9-9778-5cae1b2ec68d',
+        host: 'localhost:3001',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        'content-length': '60'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/users/register',
+      query: {}
+    },
+    res: { statusCode: 500 },
+    responseTime: 106
+  },
+  level: 'error',
+  message: 'HTTP POST /users/register',
+  timestamp: '2024-04-22T16:00:37.578Z'
+}
